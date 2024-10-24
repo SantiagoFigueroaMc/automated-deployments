@@ -25,6 +25,3 @@ crontab -u current_user -e
 # Fetch and deploy my-app-example
 * * * * * ~/cron_task.sh
 ```
-# automated-deployments
-# automated-deployments
-# automated-deployments
